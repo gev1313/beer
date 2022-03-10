@@ -18,7 +18,6 @@ function App() {
     return (
         <>
             <Layout>
-
                 <Route path="/home/bears/:id" exact>
                     <SingleBear/>
                 </Route>
