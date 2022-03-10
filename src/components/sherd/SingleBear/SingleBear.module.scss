@@ -1,0 +1,69 @@
+
+.beerInfo {
+  margin: 30px;
+  max-width: 60%;
+}
+
+.singleImg {
+  display: flex;
+  justify-content: center;
+  height: 700px;
+  width: 25%;
+  min-width: 250px;
+  margin: 60px 0;
+
+}
+
+.img {
+  width: 50%;
+  height: 700px;
+}
+
+.namePopap {
+  font-size: 28px;
+  color: orange;
+
+}
+
+.taglinePopap {
+  font-size: 25px;
+  color: #948976;
+}
+
+.ibuAbvEbcConteiner {
+  display: flex;
+}
+
+.ibuAbvEbc {
+  padding: 5px;
+  font-size: 20px;
+  color: #948976;
+}
+
+.li {
+  color: rgb(148, 137, 118);
+}
+
+.contayner {
+
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 900px;
+  background-color: white;
+}
+
+.imageInfoContayner {
+  display: flex;
+  margin: 0;
+}
+
+.description {
+  font-size: 20px;
+  color: rgb(148, 137, 118);
+}
+
+.error{
+  font-size: 25px;
+  color: red;
+}

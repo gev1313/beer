@@ -1,0 +1,33 @@
+.kontainer{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  background-color: rgb(247, 243, 243);
+  margin: 30px 40px;
+
+
+}
+
+@media screen and (max-width: 992px) {
+  .kontainer{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: rgb(247, 243, 243);
+    margin: 10px 15px;
+
+
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .kontainer{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: rgb(247, 243, 243);
+    margin: 5px 10px;
+
+
+  }
+}

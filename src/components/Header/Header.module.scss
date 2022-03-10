@@ -1,0 +1,31 @@
+.header{
+    background-color: var(--PROJECT_COLOR);
+    width: 100%;
+}
+
+.link{
+    text-decoration: none;
+    margin: 10px;
+    color:#FEF6C9;
+}
+.homeFavorite{
+    display: flex;
+    justify-content: end;
+
+}
+.ContainerBeerBank{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    color: white;
+}
+
+.find{
+   margin: 10px 0 20px 0;
+   color: #FEF6C9;
+}
+
+.theBeerBank{
+   margin: 0px;
+   font-size:35px;
+}
